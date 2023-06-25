@@ -1,0 +1,2364 @@
+{
+    "exhibitionObjects": [
+        {
+            "ID": "SK-A-5033",
+            "Title": "Marten Soolmans",
+            "Type": "painting",
+            "Description": "Marten and Oopjen are the only couple Rembrandt painted lifesize, standing and full-length. Marten was the son of a wealthy Flemish immigrant who owned a successful sugar refinery in Amsterdam. Attired in a sumptuous costume with expensive lace and enormous rosettes on his shoes, he poses self-assuredly for Rembrandt. They probably knew one another from Leiden, where Marten had studied law.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [
+                "historical persons"
+            ],
+            "Artists": [
+                "Rembrandt van Rijn"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1634",
+                "BeginDate": 1634,
+                "EndDate": 1634
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": "North Holland",
+                "State": "Amsterdam metropolitan area",
+                "City": "Amsterdam"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "207.5x132",
+            "PrimaryImage": "https://lh3.googleusercontent.com/hDN8_JS4BbbksBXkxIDUldJvooejHBfQjgD3b_Jr73HjVOAs8thpnvCJA3WUtQFxlbjx-QB1-IyqhgEiM4dFLFk1Sg=s0"
+        },
+        {
+            "ID": "SK-C-1768",
+            "Title": "Oopjen Coppit",
+            "Type": "painting",
+            "Description": "Oopjen was the eldest of three daughters of an old, affluent Amsterdam family. She sat to Rembrandt one year after her marriage. She was 23 and pregnant with her first child. The marriage was an alliance between families, old and new money. To celebrate this, monumental portraits were commissioned from the city’s leading portraitist: Rembrandt.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "oil paint (paint)",
+                "canvas"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [
+                "historical persons - BB - woman"
+            ],
+            "Artists": [
+                "Rembrandt van Rijn"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1634",
+                "BeginDate": 1634,
+                "EndDate": 1634
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": "North Holland",
+                "State": "Amsterdam metropolitan area",
+                "City": "Amsterdam"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "207.5x132",
+            "PrimaryImage": "https://lh3.googleusercontent.com/ib8SNTK2Qk-z64UYuu-_mI3FswMpYmmNU871wu5diDEPyjxmYJcNI4qRtqxlvKkVnrXTAxAFkuHX7DAN9ZwPFzS5fGE=s0"
+        },
+        {
+            "ID": "SK-A-3224",
+            "Title": "Landscape in Brazil",
+            "Type": "painting",
+            "Description": "From 1630 the Dutch West India Company (WIC) conquers parts of Brazil and ousts the Portuguese based there. Foiling the enemy is a main task of this trading company, and Portugal belongs to Spain in this time. The Dutch take over the profitable sugar production. Sugar is cultivated on plantations, like the one in this painting. Enslaved Africans work there under wretched conditions. What is presented as an idyll to the Dutch, is actually a hellish reality for them.",
+            "Colors": [
+                {
+                    "originalHex": "#7A7763",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #535246",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #383733",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #141611",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #A69D89",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #C4BDA2",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "landscapes in tropical and sub-tropical regions",
+                "plantation"
+            ],
+            "Artists": [
+                "Frans Jansz Post"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1652",
+                "BeginDate": 1652,
+                "EndDate": 1652
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "282.5x210.5",
+            "PrimaryImage": "https://lh4.ggpht.com/N-6Phi5mTiDa_w1wWl5zi8AyB8rH3TNO2IbcWhUFVnupB0cl4sazkCj1FvtaM_Cio9J4z0iVsZxSDQH1FOWMidl9g6Q=s0"
+        },
+        {
+            "ID": "SK-A-299",
+            "Title": "Travellers at Rest",
+            "Type": "painting",
+            "Description": "An elderly peasant and a somewhat younger man who has been hunting – his game bag and gun lie next to him – are seated with a tankard of beer or a pipe in the garden of an inn. After 1670 Adriaen van Ostade painted very few interiors; scenes set in the open air gained the upper hand. These tableaux contain little in the way of a moralizing message; instead, they extol unhurried, simple country life.",
+            "Colors": [
+                {
+                    "originalHex": "#0C0A05",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #9DA59B",
+                    "normalizedHex": "#B5BFCC"
+                },
+                {
+                    "originalHex": " #738286",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #372818",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #4C5551",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #816943",
+                    "normalizedHex": "#B35A1F"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "(traveller) resting in the open air",
+                "inn, coffee-house, public house, etc.",
+                "pipe ~ tobacco",
+                "jar, jug (used as drinking-vessel)"
+            ],
+            "Artists": [
+                "Adriaen van Ostade"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1671",
+                "BeginDate": 1671,
+                "EndDate": 1671
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "36.9x30.3",
+            "PrimaryImage": "https://lh3.googleusercontent.com/CEshkeb_yiKTgF4F5444uRFt4Iyqff8GsoQv6-Pmqbu7IE4R4H_k99J_PLL-MFingVi_-OyHvInlqEdC_MfGCZ3IiW0_h9XjRs0rCS-k=s0"
+        },
+        {
+            "ID": "SK-A-4969",
+            "Title": "Portrait of Jan Valckenburgh and an Enslaved Servant",
+            "Type": "painting",
+            "Description": "Jan Valckenburgh, portrayed in full regalia wearing armour and holding a commander’s baton, was twice director-general of Elmina on the African Gold Coast. The enslaved man wears a gold medal with a view of Fort Elmina, which is also depicted in the background. Valckenburgh received the medal from the Dutch West India Company for services rendered. The gold and the African man symbolize the merchandise traded on the Gold Coast.",
+            "Colors": [
+                {
+                    "originalHex": "#462B1F",
+                    "normalizedHex": "#981313"
+                },
+                {
+                    "originalHex": " #C3A27B",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #A3A5A3",
+                    "normalizedHex": "#B5BFCC"
+                },
+                {
+                    "originalHex": " #615035",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #8C8374",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #C9C1B1",
+                    "normalizedHex": "#FBF6E1"
+                }
+            ],
+            "Materials": [
+                "oil paint (paint)",
+                "canvas"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [
+                "historical persons",
+                "landscape with tower or castle",
+                "slavery; serfs and the enslaved"
+            ],
+            "Artists": [
+                "Daniel Vertangen"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1660",
+                "BeginDate": 1660,
+                "EndDate": 1660
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": "North Holland",
+                "State": "Amsterdam metropolitan area",
+                "City": "Amsterdam"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "128.3x102.0",
+            "PrimaryImage": "https://lh3.googleusercontent.com/i0lTAbnhEtGogIbN4ixwqdy9wsLyiMrbAAwViQtI5JBcD92_GkGit5639jbAtLn4p-6DkuHnJqLD--o2ARbDTfKKog=s0"
+        },
+        {
+            "ID": "SK-C-1215",
+            "Title": "Thomas Hees and his Servant Thomas and Nephews Jan and Andries Hees",
+            "Type": "painting",
+            "Description": "Thomas Hees served as a diplomat in Algiers, Tunis and Tripoli, negotiating the ransoming of Dutch galley slaves and combatting the privateering of Dutch ships, among other missions. The name and age of his African servant is indicated on the back of the canvas: ‘Thomas the Negro, 17 years old.",
+            "Colors": [
+                {
+                    "originalHex": "#22160D",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #704C16",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #916D4D",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #6C593E",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #A8835E",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #4E341E",
+                    "normalizedHex": "#B35A1F"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons",
+                "mirror",
+                "kaarten, atlassen",
+                "writing tools",
+                "carpet, rug",
+                "Africans",
+                "slavery; serfs and the enslaved"
+            ],
+            "Artists": [
+                "Michiel van Musscher"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1687",
+                "BeginDate": 1687,
+                "EndDate": 1687
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "76x63",
+            "PrimaryImage": "https://lh3.googleusercontent.com/X8tT_loOn8tCbfcQZ2YlcjJKn5aDFIhITj6LhVvZlbiY7lsctlNeXVXTZo_wkQJf_RzK4C0Ge003LC9dN-PoIJfL673i=s0"
+        },
+        {
+            "ID": "SK-A-3758",
+            "Title": "Governor-General Jan Pietersz Coen",
+            "Type": "painting",
+            "Description": "With the founding of Batavia in 1619, Coen, Governor- General of the Dutch East Indies, took the first steps towards creating a colonial empire. His pursuit of overseas property ran counter to the aims of the Dutch East India Company’s directors, who were interested solely in establishing trading posts. Coen’s undertaking involved military manoeuvres that wreaked havoc with the indigenous people. At upper left is Coen’s coat of arms, a coconut palm.",
+            "Colors": [
+                {
+                    "originalHex": "#603921",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #18140D",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #7A4C2C",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #3C2D1F",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #454034",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #615A4C",
+                    "normalizedHex": "#737C84"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons",
+                "colonial governor"
+            ],
+            "Artists": [
+                "anonymous"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1620 - 1675",
+                "BeginDate": 1620,
+                "EndDate": 1675
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": null,
+                "State": null,
+                "City": "Batavia"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "97.5x77.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/PXV4OxOeTNVcEg3c2ZMr1rSZBR_irJkePuLgv-OH4empiiIzqcP7IxJUHXYk3TnayQrywls6o6t3M8_nWZidk7tEpQ=s0"
+        },
+        {
+            "ID": "SK-C-2",
+            "Title": "Banquet at the Crossbowmen’s Guild in Celebration of the Treaty of Münster",
+            "Type": "painting",
+            "Description": "18 June 1648: a banquet is taking place at the Amsterdam crossbowmen’s guild. The occasion was the signing of the Treaty of Münster, which marked an end to the war with Spain. The captains of the civic guard company shake hands as a sign of peace, and the drinking horn is passed around. The poem on the drum proclaims the joy of Amsterdam’s armed militia that their weapons can henceforth be laid to rest.",
+            "Colors": [
+                {
+                    "originalHex": "#120F09",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #4E402C",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #856E47",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #9F8E6A",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #ABA892",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #425763",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #C7C5B1",
+                    "normalizedHex": "#FBF6E1"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "celebration meal, feast, banquet",
+                "private festivities, merry company",
+                "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)",
+                "glass, rummer",
+                "(military) flags and standards"
+            ],
+            "Artists": [
+                "Bartholomeus van der Helst"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1648",
+                "BeginDate": 1648,
+                "EndDate": 1648
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "232x547",
+            "PrimaryImage": "https://lh3.googleusercontent.com/kmCDKP1kMN72zB-7CHBOBdCnyU3Z-NW7WIzuN_sIqm5n9xf6lG4oTtfcWsGW8qhbVYuwSDkYlhOglx7z4YaFL8UeFWU=s0"
+        },
+        {
+            "ID": "SK-A-4475",
+            "Title": "Two Views of Dutch East India Company Trading Posts: Lawec in Cambodia and Banda in the Southern Moluccas",
+            "Type": "painting",
+            "Description": "From 1609 the East India Company was sailing to Lawec, near Phnom Penh. There the company purchased provisions, such as rice, butter, pork, and lard, for Batavia. Banda supplied mace and nutmeg. In 1621, Governor-General Coen punished the island for trading with other countries: all fifteen thousand islanders were killed or driven away. The ‘slaughterer of Banda’ founded nutmeg parcels, heavily guarded by forts.",
+            "Colors": [
+                {
+                    "originalHex": "#9F9D8C",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #625E47",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #C4BDA1",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #807960",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #4E432F",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #352D24",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #1C1A18",
+                    "normalizedHex": "#000000"
+                }
+            ],
+            "Materials": [
+                "linen (material)",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "river",
+                "locations for trading"
+            ],
+            "Artists": [
+                "Johannes Vinckboons"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1662 - c. 1663",
+                "BeginDate": 1662,
+                "EndDate": 1663
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": "North Holland",
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "97x140",
+            "PrimaryImage": "https://lh6.ggpht.com/4Nx3drUaXFxaaU1ygodwMTmMh-kU7yfGiZ6PVwIYMgicoq2nHfIUPY92HLyt-J6jQB0WwSrBfW_6IT_xwCzVmiUQyWQ=s0"
+        },
+        {
+            "ID": "SK-A-1775",
+            "Title": "The Departure of a Dignitary from Middelburg",
+            "Type": "painting",
+            "Description": "The warship De Zeehondt is being towed to sea from the harbour of Middelburg by four muscular draught horses. The identity of the departing person who is drawing so much attention from a multitude of lowand high-ranking people is unknown. However, it must have been someone of standing, for even Stadtholder Maurice’s yacht is present; it fires a salute.",
+            "Colors": [
+                {
+                    "originalHex": "#3B4A50",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #BCBDAC",
+                    "normalizedHex": "#FBF6E1"
+                },
+                {
+                    "originalHex": " #84877C",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #7C684C",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #523D28",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #19190F",
+                    "normalizedHex": "#000000"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "city-view in general; 'veduta'",
+                "sailing-ship, sailing-boat"
+            ],
+            "Artists": [
+                "Adriaen Pietersz. van de Venne"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1615",
+                "BeginDate": 1615,
+                "EndDate": 1615
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "63.2x131.6",
+            "PrimaryImage": "https://lh3.googleusercontent.com/k1RyDykSCj_-w9HpfX5fz4YonlXXDoC0pK95mFsTuK-DrO27Ov4LwrX2wPqK5Y7jBOGPQd8_Rt8BqWTEAIDBoQLsDEd1CsvmlM3iFgM=s0"
+        },
+        {
+            "ID": "SK-A-3741",
+            "Title": "Portrait of Laurens Reael",
+            "Type": "painting",
+            "Description": "Laurens Reael was governor-general of the VOC (Dutch East India Company), the company’s highest position in Asia. On returning to the Netherlands, he had himself portrayed full-length by a leading Amsterdam artist. Around his neck, the richly dressed Reael wears the gold chain that the States-General presented to him for his work in Asia.",
+            "Colors": [
+                {
+                    "originalHex": "#351E1C",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #734F40",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #852D28",
+                    "normalizedHex": "#981313"
+                },
+                {
+                    "originalHex": " #BFA68B",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #817B6C",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #E2D5B9",
+                    "normalizedHex": "#FBF6E1"
+                },
+                {
+                    "originalHex": " #B78158",
+                    "normalizedHex": "#B35A1F"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons (+ full length portrait)",
+                "colonial governor"
+            ],
+            "Artists": [
+                "Cornelis van der Voort"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1620",
+                "BeginDate": 1620,
+                "EndDate": 1620
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "223x127",
+            "PrimaryImage": "https://lh3.googleusercontent.com/ixDcd6kuN4VYL6ufDHDyoyTLCkUqUynnEbqJy6yD6wmj8_SRN4niuFq8H5CThA8_186sU0uOEg3jlcux5y8NuU_cVXqMfdgwLpyqcrUP=s0"
+        },
+        {
+            "ID": "SK-A-3148",
+            "Title": "Portrait of William I, Prince of Orange",
+            "Type": "painting",
+            "Description": "Of the noblemen who rebelled against Phillip II’s Spanish rule of the Netherlands, William of Orange rose to become the great leader of the Dutch Revolt. He defended his own interests, strove for greater independence and advocated freedom of religion. In 1580 Phillip II put a price on his head, and he was assassinated four years later.",
+            "Colors": [
+                {
+                    "originalHex": "#1F1D15",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #463623",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #A2906B",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #907954",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #6B4F31",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #7C6344",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #B6AE89",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons (+ head (and shoulders) (portrait))",
+                "ruler, sovereign"
+            ],
+            "Artists": [
+                "Adriaen Thomasz. Key"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1579",
+                "BeginDate": 1579,
+                "EndDate": 1579
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "48x35",
+            "PrimaryImage": "https://lh3.googleusercontent.com/_BGOU2j67VwLEzkwwGvykBeqM-AgXmGcnQ1KOHVE_VcWJ8g6MqPXXTJ-P-is99ojsMggoe5tQnwsMrYdg7Y0ae6YNLU=s0"
+        },
+        {
+            "ID": "SK-A-112",
+            "Title": "Allegory on the Abdication of Emperor Charles v in Brussels",
+            "Type": "painting",
+            "Description": "Charles V is enthroned at centre. Battle weary and wracked by illness, in 1555 he divided up his empire. He gave his brother Ferdinand (left of the throne) the Holy Roman Empire, while his son Phillip (at the right) became King of Spain and Lord of the Netherlands. The three figures in the right foreground personify the continents America, Africa and Asia over which Charles’s vast empire also stretched. Neptune (left) symbolizes his power at sea.",
+            "Colors": [
+                {
+                    "originalHex": "#36301F",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #553B1E",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #575233",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #7C6736",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #948049",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #1D1B11",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #AA9F71",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "oil paint (paint)",
+                "panel"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [
+                "allegorisch weergegeven werelddelen",
+                "abdication (of a ruler)",
+                "triumph of Neptune"
+            ],
+            "Artists": [
+                "Frans Francken (II)"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1635 - c. 1640",
+                "BeginDate": 1635,
+                "EndDate": 1640
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "132.6x132.8",
+            "PrimaryImage": "https://lh3.googleusercontent.com/F2P9yKwr8y2xU7OYZcVrluWFFqzvm81vhyR5jRiAs17KmYUpiwtDSanINxqC4NvpPoOt4D5VibpHkdTsX5N-dehVqiFbhusAbWZ4_2zm=s0"
+        },
+        {
+            "ID": "SK-C-5",
+            "Title": "The Night Watch",
+            "Type": "painting",
+            "Description": "Rembrandt's largest and most famous painting was made for one of the three headquarters of Amsterdam's civic guard. These groups of civilian soldiers defended the city from attack. Rembrandt was the first to paint all of the figures in a civic guard piece in action. The captain, dressed in black, gives the order to march out. The guardsmen are getting into formation. Rembrandt used the light to focus on particular details, like the captain's gesturing hand and the young girl in the foreground. She was the company mascot. The nickname Night Watch originated much later, when the painting was thought to represent a nocturnal scene.",
+            "Colors": [
+                {
+                    "originalHex": "#261808",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #5E3C14",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #9C8238",
+                    "normalizedHex": "#E09714"
+                },
+                {
+                    "originalHex": " #885617",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #AF9F6B",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #6C6238",
+                    "normalizedHex": "#367614"
+                },
+                {
+                    "originalHex": " #D7CB9E",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)",
+                "weapons",
+                "drum (musical instrument)",
+                "girl (child between toddler and youth)",
+                "(military) standard-bearer",
+                "dog"
+            ],
+            "Artists": [
+                "Rembrandt van Rijn"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1642",
+                "BeginDate": 1642,
+                "EndDate": 1642
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": "North Holland",
+                "State": "Amsterdam metropolitan area",
+                "City": "Amsterdam"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "379.5x453.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/SsEIJWka3_cYRXXSE8VD3XNOgtOxoZhqW1uB6UFj78eg8gq3G4jAqL4Z_5KwA12aD7Leqp27F653aBkYkRBkEQyeKxfaZPyDx0O8CzWg=s0"
+        },
+        {
+            "ID": "SK-C-393",
+            "Title": "Officers and other Civic Guardsmen of the XIX District of Amsterdam, under the command of Captain Cornelis Bicker and Lieutenant Frederick van Banchem, waiting to welcome Marie de Médicis, 1 September 1638",
+            "Type": "painting",
+            "Description": "Rembrandt's largest and most famous painting was made for one of the three headquarters of Amsterdam's civic guard. These groups of civilian soldiers defended the city from attack. Rembrandt was the first to paint all of the figures in a civic guard piece in action. The captain, dressed in black, gives the order to march out. The guardsmen are getting into formation. Rembrandt used the light to focus on particular details, like the captain's gesturing hand and the young girl in the foreground. She was the company mascot. The nickname Night Watch originated much later, when the painting was thought to represent a nocturnal scene.",
+            "Colors": [
+                {
+                    "originalHex": "#23201C",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #443F35",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #0E110D",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #63553C",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #857254",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #A78D6A",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #C1A57F",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)",
+                "guard of honour",
+                "piece of sculpture, reproduction of a piece of sculpture"
+            ],
+            "Artists": [
+                "Joachim von Sandrart (I)"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1640",
+                "BeginDate": 1640,
+                "EndDate": 1640
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "343x258",
+            "PrimaryImage": "https://lh3.googleusercontent.com/Qa_PAbOGV2OM8l283dlrjTXs_H1hm_Ucre1b3PBw6C8FAXULlvGIrRiURVC-Y5aX5aohlFkB08cBAo2LYwU0MsYd2oE=s0"
+        },
+        {
+            "ID": "SK-C-375",
+            "Title": "Militia Company of District VIII under the Command of Captain Roelof Bicker",
+            "Type": "painting",
+            "Description": "This civic guard painting is a substantial 7.5 metres wide and almost filled an entire wall in the large hall of the Kloveniersdoelen. Van der Helst did not line up the thirty militiamen in a static row, but positioned the ones with the lightest coloured clothing in the front at regular intervals. The painter included himself in the group, at the far left.",
+            "Colors": [
+                {
+                    "originalHex": "#161512",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #63533E",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #977A56",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #5A3523",
+                    "normalizedHex": "#981313"
+                },
+                {
+                    "originalHex": " #B8AA8C",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #D3CDB8",
+                    "normalizedHex": "#FBF6E1"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "warfare; military affairs (+ citizen soldiery, civil guard, citizen militia)",
+                "weapons"
+            ],
+            "Artists": [
+                "Bartholomeus van der Helst"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1640 - c. 1643",
+                "BeginDate": 1640,
+                "EndDate": 1643
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "235x750",
+            "PrimaryImage": "https://lh3.googleusercontent.com/-sA-pF2Y-y-S52zipGtwTZ-rSVWQ9y2yJS1oya2vUjAv5yJuZa1XQEhq9JdgTVqPGa24QP8oTzD1BQ_N319WIoYm-A=s0"
+        },
+        {
+            "ID": "SK-A-4646",
+            "Title": "Still Life with a Turkey Pie",
+            "Type": "painting",
+            "Description": "The Flemish painter Pieter Claesz was just one of many artists who emigrated to the Northern Netherlands in the beginning of the 17th century. This table abounds with luxurious products, among them Asian objects. Especially eye-catching are the porcelain plate and the nautilus shell. Even in unexpected objects, the presence of Asia is implicit – for instance in savoury pies, which contain ingredients such as  cinnamon, mace, cloves and ginger.",
+            "Colors": [
+                {
+                    "originalHex": "#2A2316",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #5B4A2E",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #4E5C51",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #7D6E46",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #BBB699",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #A39464",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "banquet piece",
+                "walker and runner birds: turkey",
+                "molluscs: oyster",
+                "fruit"
+            ],
+            "Artists": [
+                "Pieter Claesz."
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1627",
+                "BeginDate": 1627,
+                "EndDate": 1627
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "76.5x135",
+            "PrimaryImage": "https://lh3.googleusercontent.com/rnrW52Z0YetEODlHWIXqFLVc3MgyNbEeTiO8dmfuPo3AW8JxSnOOWBtAAMBUwkqgFacwdtQ33_a0ymu8KyXYioNhgswVcyNcS7rq3aCkbA=s0"
+        },
+        {
+            "ID": "SK-A-4954",
+            "Title": "Portrait of a Wounded KNIL Soldier",
+            "Type": "painting",
+            "Description": "This Ghanaian was named Kees Pop when he joined the Dutch colonial army in the former slave fort Elmina located in present-day Ghana. His African name is unknown: he was the son of Kwamena and Ekoerva. ‘Pop’ signed on in 1869 for a twelve-year tour and fought in the Aceh War in Indonesia. Israels portrayed him – with his medals – in the Netherlands shortly before he returned to Africa.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "hardboard",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "veteran",
+                "disabled soldier",
+                "medals and other marks of military honour"
+            ],
+            "Artists": [
+                "Isaac Israels"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1882",
+                "BeginDate": 1882,
+                "EndDate": 1882
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "37x23",
+            "PrimaryImage": "https://lh3.googleusercontent.com/nQNU6Vqc3Je4uCQXjBNGMR8-ewZJAaRsfjCmqCSwrV0fTPSBxIMNChi8EBMs9LklRbSgqedjS7ocBrDUGNx7qp3xnw=s0"
+        },
+        {
+            "ID": "SK-C-1460",
+            "Title": "Portrait of William I, King of the Netherlands",
+            "Type": "painting",
+            "Description": "In 1812 Napoleon suffered a series of major defeats which allowed William Frederick, Prince of Orange-Nassau, to return to the Netherlands as monarch in 1813. A month after Napoleon’s escape from Elba, he proclaimed himself King of the United Netherlands (now the Netherlands and Belgium) and Duke of Luxemburg. After the Battle of Waterloo he was inaugurated in 1815 as King William I.",
+            "Colors": [
+                {
+                    "originalHex": "#B7AA8C",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #90704B",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #231D16",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #723320",
+                    "normalizedHex": "#981313"
+                },
+                {
+                    "originalHex": " #DCD5BC",
+                    "normalizedHex": "#FBF6E1"
+                },
+                {
+                    "originalHex": " #4B6968",
+                    "normalizedHex": "#2F4F4F"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "king",
+                "historical persons",
+                "throne",
+                "crown (symbol of sovereignty)"
+            ],
+            "Artists": [
+                "Joseph Paelinck"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1819",
+                "BeginDate": 1819,
+                "EndDate": 1819
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "227x155.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/FlbSEwfZrm1vwfdm0vbo6p5lBiF7wSIC0x9ZcyomJfiUyAaspCMLNoH6a5kvivVUi1FhETTsgJ5PYGR5cqrV6ek9fA=s0"
+        },
+        {
+            "ID": "SK-A-662",
+            "Title": "The Shop of the Bookdealer Pieter Meijer Warnars on the Vijgendam in Amsterdam",
+            "Type": "painting",
+            "Description": "Amsterdam’s cultural elite met up in this book and print shop. Warnars, the owner, was a bookdealer, publisher and printer. These activities are reflected in the full bookcases, the hanging banner, new reams of paper and the printing press on the floor. The painter of this scene, Johannes Jelgerhuis, was also a noted actor. The pronounced perspective of the shop interior makes it look like a stage set with a city view as a backdrop.",
+            "Colors": [
+                {
+                    "originalHex": "#624C29",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #322819",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #998356",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #75623C",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #BFAF85",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #B1985F",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #D5CDAE",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "book-shop, bookseller",
+                "bookbinding"
+            ],
+            "Artists": [
+                "Johannes Jelgerhuis"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1820",
+                "BeginDate": 1820,
+                "EndDate": 1820
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "48x58",
+            "PrimaryImage": "https://lh3.googleusercontent.com/nRlsULZqzipqV7h73GfGyUppTjgngF1erxQQkSP_cw5YeK0avrtqRA9IYuQdCbz9l8Eny7DhIN2S7P9G3br-qfXHJzQ=s0"
+        },
+        {
+            "ID": "SK-C-170",
+            "Title": "Portrait of William II, King of the Netherlands",
+            "Type": "painting",
+            "Description": "This is a portrait of King William II in military uniform, but with a decidedly informal air. Accompanied by his hound, he poses casually in the dunes, which in the Romantic era was considered the quintessentially Dutch landscape. In 1848 –when revolutions were raging throughout Europe –William II renounced royal autocracy and the Netherlands became a parliamentary democracy.",
+            "Colors": [
+                {
+                    "originalHex": "#C4B695",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #959489",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #766B57",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #B69765",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #79402C",
+                    "normalizedHex": "#981313"
+                },
+                {
+                    "originalHex": " #2A2017",
+                    "normalizedHex": "#000000"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons",
+                "dune coast",
+                "dog"
+            ],
+            "Artists": [
+                "Jan Adam Kruseman"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1839",
+                "BeginDate": 1839,
+                "EndDate": 1839
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "109.5x86",
+            "PrimaryImage": "https://lh3.googleusercontent.com/B7Ovt0q6EggM2UAuXAH7l3TYgrmMTwhMj2uB62WBfC5ACUwxXun7S_yIyVZRiPH5w0sTDktMdPtDGXJQq2Q0JFJ3Cw=s0"
+        },
+        {
+            "ID": "SK-A-4026",
+            "Title": "The Bookshop and Lottery Agency of Jan de Groot in the Kalverstraat in Amsterdam",
+            "Type": "painting",
+            "Description": "A group of men push and shove to enter the door of the lottery agency – to the astonishment of passersby and the general amusement of the hotel guests on either side. The scene is the start of the lottery ticket sales organized by the States General on 25 October 1779. This was the immediate forerunner of the National Lottery, which still exists, as does the house seen here.",
+            "Colors": [
+                {
+                    "originalHex": "#312B1D",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #5F4021",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #0F100F",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #6E6639",
+                    "normalizedHex": "#367614"
+                },
+                {
+                    "originalHex": " #968C4B",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #B6AD65",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #D1CD89",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "book-shop, bookseller",
+                "raffle, lottery",
+                "crowd, mob"
+            ],
+            "Artists": [
+                "Isaac Ouwater"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1779",
+                "BeginDate": 1779,
+                "EndDate": 1779
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "38.5x33.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/PwJMha2PjESwtU5BVxRmxv2OZmfXDpE1RDYnWwgkOFJkPDiYVrnPu3doJXO75e_wPkGj_6EXl9xLsrL3i_HCUaTHI-c=s0"
+        },
+        {
+            "ID": "SK-A-5039",
+            "Title": "Dutch Girl at Breakfast",
+            "Type": "painting",
+            "Description": "One of Liotard’s few paintings in oil and even rarer genre pieces, this work is his most concrete homage to the Dutch masters of the 17th century. Liotard has composed an interior reminiscent of those depicted by Vermeer and De Hooch, but with modern, 18th-century Dutch furniture. It is possible that he was inspired by a stay at Delft, where a cousin was a pastor of the Huguenot church. The painting in the background shows the interior of the Nieuwe Kerk there.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [
+                "breakfast piece (Dutch: 'ontbijtje')",
+                "breakfast",
+                "morning coffee"
+            ],
+            "Artists": [
+                "Jean-Etienne Liotard"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1756",
+                "BeginDate": 1756,
+                "EndDate": 1756
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "46.8x39",
+            "PrimaryImage": "https://lh3.googleusercontent.com/xIy4KYVfvbRmRnk90yvmQ_V98wx6Zdnr68_YzQj5PsMgBd6h_mVr9gHkVESdG7qS1fb3_jpAMf97ESj239Ng2Fw_Jw=s0"
+        },
+        {
+            "ID": "SK-A-3831",
+            "Title": "The Garden and Coach House of 524 Keizersgracht in Amsterdam",
+            "Type": "painting",
+            "Description": "Nicolaas Doekscheer, who lived at 524 Keizersgracht, built a grand, Rococo coach house on the Kerkstraat, which adjoined the back of his garden. He is here depicted conversing with the gardener, while his wife speaks to a maidservant. The two young men are Doekscheer’s nephews and heirs. The painting is still in its original Rococo frame.",
+            "Colors": [
+                {
+                    "originalHex": "#C5C6C6",
+                    "normalizedHex": "#B5BFCC"
+                },
+                {
+                    "originalHex": " #B2AA9A",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #908064",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #15191A",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #6C8399",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #3E5261",
+                    "normalizedHex": "#737C84"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "urban housing",
+                "garden",
+                "transverse flute - CC - out of doors",
+                "piece of sculpture, reproduction of a piece of sculpture",
+                "(het verhaal van) Hercules (Herakles)",
+                "(story of) Ceres (Demeter)"
+            ],
+            "Artists": [
+                "Hendrik Keun"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1772",
+                "BeginDate": 1772,
+                "EndDate": 1772
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "53x63.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/giTPRA1MlVXJnfNGGrOi5095Zj53HLxBgaaE4E-cSHEOTTVc-iQVIO8W095VVmYCuQa-r-GaOjWCAOvu2BY4zSveVTXf=s0"
+        },
+        {
+            "ID": "SK-A-3136",
+            "Title": "Portrait of Isaac Jan Alexander Gogel",
+            "Type": "painting",
+            "Description": "Gogel was one of the architects of the 1798 constitution of the Batavian Republic. As minister of finance, he introduced a new tax system in 1805. He also initiated the founding of the Nationale Konstgallerij, the precursor of the Rijksmuseum, in 1798.",
+            "Colors": [
+                {
+                    "originalHex": "#463F31",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #796236",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #11120D",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #697064",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #9D967C",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #BEB698",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #DAD0B0",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons",
+                "minister ~ government"
+            ],
+            "Artists": [
+                "Mattheus Ignatius van Bree"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1811 - c. 1813",
+                "BeginDate": 1811,
+                "EndDate": 1813
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "95x75",
+            "PrimaryImage": "https://lh3.googleusercontent.com/0EWH_G-_QXqoevA8fBg1uyrLNf9MMUW6mlb0-MM2iQnUl28pYDZe2NWaFCXeLnxjjLDiM99E5snwlsdBJMb1XsHxEwA=s0"
+        },
+        {
+            "ID": "SK-A-3097",
+            "Title": "Portrait of Rutger Jan Schimmelpenninck and his Family",
+            "Type": "painting",
+            "Description": "Rutger Jan Schimmelpenninck was a Patriot from the very beginning and occupied important political offices in the Batavian Republic. He was president of the National Assembly in 1796, envoy extraordinary and minister plenipotentiary in Paris from 1798 to 1800 and the Batavian ambassador to France and to the United Kingdom in the following years. This portrait was painted in Paris.",
+            "Colors": [
+                {
+                    "originalHex": "#302A1C",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #14120F",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #4A422D",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #6E6242",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #A89C82",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #CDC4A8",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #8B7F64",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "family group, especially parents with their child(ren)",
+                "goat",
+                "picking flowers"
+            ],
+            "Artists": [
+                "Pierre Prud'hon"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1801 - 1802",
+                "BeginDate": 1801,
+                "EndDate": 1802
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "263.5x200",
+            "PrimaryImage": "https://lh3.googleusercontent.com/9areIQJCAl9QUam5s6Ojv0zkMmqNTqUy6SD6hH-t0ZsNCToy1ZDqTS4M-t30qLgGboKPFBa1cbF5dnsLy471o2ghkA=s0"
+        },
+        {
+            "ID": "SK-A-3780",
+            "Title": "Baron Gustaaf Willem van Imhoff (1743-1750)",
+            "Type": "painting",
+            "Description": "The highest-ranking Dutch East India Company (VOC) official in Asia was the governor-general. He presided in the Castle of Batavia (now Jakarta, Indonesia), a fort built by the Dutch. The assembly hall in the Castle of Batavia was the centre of Dutch power in Asia. The walls were hung with portraits of all of the governors-general. Most of the 18th-century examples shown here were painted in Asia, often by anony¬mous artists.",
+            "Colors": [
+                {
+                    "originalHex": "#604532",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #2E2522",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #7B6148",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #887960",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #998D75",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #A79E87",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #141313",
+                    "normalizedHex": "#000000"
+                }
+            ],
+            "Materials": [
+                "brass (alloy)",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "baton of general",
+                "historical persons",
+                "colonial governor"
+            ],
+            "Artists": [
+                "anonymous"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1745",
+                "BeginDate": 1745,
+                "EndDate": 1745
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": null,
+                "State": null,
+                "City": "Batavia"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "110x92.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/WPS5gSUey1nye2YRXu5gfy6Gc3-uPbchndyb5Sb6okR-35NOv71w4pdOB9rrnrEVJRmLE-x7XyCNfMiuetndiCoW3g=s0"
+        },
+        {
+            "ID": "SK-A-3781",
+            "Title": "Jacob Mossel (1750-1761)",
+            "Type": "painting",
+            "Description": "The highest-ranking Dutch East India Company (VOC) official in Asia was the governor-general. He presided in the Castle of Batavia (now Jakarta, Indonesia), a fort built by the Dutch. The assembly hall in the Castle of Batavia was the centre of Dutch power in Asia. The walls were hung with portraits of all of the governors-general. Most of the 18th-century examples shown here were painted in Asia, often by anony¬mous artists.",
+            "Colors": [
+                {
+                    "originalHex": "#211408",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #492E17",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #61461F",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #725A33",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #877148",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #9E885F",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #B0A484",
+                    "normalizedHex": "#E0CC91"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "cardboard",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons",
+                "baton of general",
+                "colonial governor"
+            ],
+            "Artists": [
+                "anonymous"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1755",
+                "BeginDate": 1755,
+                "EndDate": 1755
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": null,
+                "State": null,
+                "City": "Batavia"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "112.5x96",
+            "PrimaryImage": "https://lh3.googleusercontent.com/GQ1aI0ipJKah6HYAOI3EVLMiJx81RaIkHVhPFLrAEbwOz-gX3dNN5iLyRri1PMm_omUGj2EyJRyo3K7GBE9MQfqTW3Cp=s0"
+        },
+        {
+            "ID": "SK-A-5058",
+            "Title": "Dry Dock on Curaçao",
+            "Type": "painting",
+            "Description": "The highest-ranking Dutch East India Company (VOC) official in Asia was the governor-general. He presided in the Castle of Batavia (now Jakarta, Indonesia), a fort built by the Dutch. The assembly hall in the Castle of Batavia was the centre of Dutch power in Asia. The walls were hung with portraits of all of the governors-general. Most of the 18th-century examples shown here were painted in Asia, often by anony¬mous artists.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "oil paint (paint)",
+                "canvas"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [],
+            "Artists": [
+                "Suzanne Perlman"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1959",
+                "BeginDate": 1959,
+                "EndDate": 1959
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "70x90",
+            "PrimaryImage": "https://lh3.googleusercontent.com/AnfkSgumy-IMKvMj_yqLqDxtS38pyXi8iFESsGknjZ7bgPKLgTnxxE4cN3WQIu-eSPQtSdXbrdiCFM0Y42LH2phPy9eSQElwh7lo9Vuy3w=s0"
+        },
+        {
+            "ID": "SK-A-2248",
+            "Title": "Portrait of Jan Pranger and an Enslaved Servant",
+            "Type": "painting",
+            "Description": "Jan Pranger was director-general of the Dutch West India Company on the Gold Coast (now Ghana) in West Africa from 1730 to 1734. Here he is seen standing in his office in the Dutch trading post Fort Elmina. All the details underscore the importance of his position: the enslaved man with a parasol, the commander’s baton, and the monogram GWC (of the Chartered West India Company) on the tablecloth.",
+            "Colors": [
+                {
+                    "originalHex": "#1E1E13",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #747B6C",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #C1B99B",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #A3987D",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #7A5C43",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #69361F",
+                    "normalizedHex": "#981313"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons (+ full length portrait)",
+                "writing tools",
+                "Africans",
+                "slavery; serfs and the enslaved"
+            ],
+            "Artists": [
+                "Frans van der Mijn"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1742",
+                "BeginDate": 1742,
+                "EndDate": 1742
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "210x154.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/vP2gG8d9dwGg1rO-yHeAcr4GkYWDPnpsclIR_9bY1TqX3EDcA3ZXhL0HVRldfQrj3ouQWkkd8PyTI5s2UY0hRmJeUi_w=s0"
+        },
+        {
+            "ID": "SK-A-2004",
+            "Title": "Banquet of Distinguished Turkish Women",
+            "Type": "painting",
+            "Description": "Jan Pranger was director-general of the Dutch West India Company on the Gold Coast (now Ghana) in West Africa from 1730 to 1734. Here he is seen standing in his office in the Dutch trading post Fort Elmina. All the details underscore the importance of his position: the enslaved man with a parasol, the commander’s baton, and the monogram GWC (of the Chartered West India Company) on the tablecloth.",
+            "Colors": [
+                {
+                    "originalHex": "#0B0E06",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #93896D",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #ADA58A",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #2B1E11",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #7C6E4C",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #583F28",
+                    "normalizedHex": "#B35A1F"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "evening meal, dinner, supper",
+                "waiting at table",
+                "slavery; serfs and the enslaved"
+            ],
+            "Artists": [
+                "Jean Baptiste Vanmour"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "c. 1720 - c. 1737",
+                "BeginDate": 1720,
+                "EndDate": 1737
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "45x58.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/e6cwNCykPR39hD0cnUfEl6tV-LC9G2SHY1OZq5fISKo5FxOfMT54xOJbu2DbT_ANNBaaRFuiY4z4yM4eLpeNgTxOcP8=s0"
+        },
+        {
+            "ID": "SK-A-6",
+            "Title": "Portrait of William IV",
+            "Type": "painting",
+            "Description": "Stadtholder William IV is shown as Captain-General and Admiral-General of the Dutch Republic. He wears the decorations of the Order of the Garter. Despite all the trappings of power, the French painter Aved did not succeed in depicting him as an impressive ruler. The portrait was finished in the year that the prince died.",
+            "Colors": [
+                {
+                    "originalHex": "#9E9477",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #776E55",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #513B26",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #2F424F",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #1A1C1E",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #935825",
+                    "normalizedHex": "#B35A1F"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [],
+            "Artists": [
+                "Jacques-André-Joseph Aved"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1751",
+                "BeginDate": 1751,
+                "EndDate": 1751
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "107.5x67.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/-jbfEQYn46BZp80FmmjfI96Kq4OQtI_AsjqAg9XcyOLPtB-DNh5ft_L1zmtt5tlCHEJJehCvOov6UWUrw5omkUrN__Js=s0"
+        },
+        {
+            "ID": "SK-A-3830",
+            "Title": "Portrait of Theodorus Bisdom van Vliet and his Family",
+            "Type": "painting",
+            "Description": "For generations the Bisdom van Vliet family held important positions in and around Haastrecht. Theodorus was mayor of the town and an official of the Krimpenerwaard district water board. He and his wife Maria are in their garden, surrounded by their ten elegantly dressed children. The arms of both parents feature on the sides of the Rococo frame.",
+            "Colors": [
+                {
+                    "originalHex": "#F5EFBF",
+                    "normalizedHex": "#FBF6E1"
+                },
+                {
+                    "originalHex": " #DAD1A5",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #9D905E",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #A8A98A",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #212117",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #604F39",
+                    "normalizedHex": "#B35A1F"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "family group, especially parents with their child(ren)",
+                "piece of sculpture, reproduction of a piece of sculpture",
+                "(story of) Neptune (Poseidon)"
+            ],
+            "Artists": [
+                "Jan Stolker"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1757",
+                "BeginDate": 1757,
+                "EndDate": 1757
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "185x150",
+            "PrimaryImage": "https://lh4.ggpht.com/wzTBE1T9f2QoJSYB7__eZYOrQFDqRmvSv5R8r1s2JHE2Y-4_Fy0o8k7yJAd4asYutT0PfYjq9pI9ekeIn1p5BvXp7eVI=s0"
+        },
+        {
+            "ID": "SK-A-1635",
+            "Title": "Inspectors of the Collegium Medicum in Amsterdam, 1724",
+            "Type": "painting",
+            "Description": "For generations the Bisdom van Vliet family held important positions in and around Haastrecht. Theodorus was mayor of the town and an official of the Krimpenerwaard district water board. He and his wife Maria are in their garden, surrounded by their ten elegantly dressed children. The arms of both parents feature on the sides of the Rococo frame.",
+            "Colors": [
+                {
+                    "originalHex": "#6F5A3E",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #262823",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #8D8361",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #957045",
+                    "normalizedHex": "#B35A1F"
+                },
+                {
+                    "originalHex": " #C0AA81",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #CDC5A1",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #E3E0C4",
+                    "normalizedHex": "#FBF6E1"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [],
+            "Artists": [
+                "Cornelis Troost"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1724",
+                "BeginDate": 1724,
+                "EndDate": 1724
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "40x49",
+            "PrimaryImage": "https://lh6.ggpht.com/p-FDtI0f6uySLGqoTsPHL-YeHxshfIhiZsTVqZYR2-u5JCJTvf9xBjTrRxBk43vRvRHdzhJQfXirVlyTaUlUjHQMWO4=s0"
+        },
+        {
+            "ID": "SK-C-1658",
+            "Title": "Portrait of David van Mollem with his Family",
+            "Type": "painting",
+            "Description": "The wealthy Amsterdam silk merchant David van Mollem sits with his descendants in the garden of his country house, Zijdebalen (‘Silk Reams’), along the River Vecht near Utrecht. The portraitist, Verkolje, also designed the garden, which featured two large marble vases by the sculptor Jacob Cressant. Van Mollem was an authority on nature and is portrayed passing on his love of plants and science to his grandchildren.",
+            "Colors": [
+                {
+                    "originalHex": "#1C222A",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #47494F",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #CABC90",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #ECE0AD",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #9E9682",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #776860",
+                    "normalizedHex": "#737C84"
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "family group, especially parents with their child(ren)",
+                "print, e.g.: engraving, etching, lithograph",
+                "armillary sphere, skeleton celestial globe",
+                "garden vase"
+            ],
+            "Artists": [
+                "Nicolaas Verkolje"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1740",
+                "BeginDate": 1740,
+                "EndDate": 1740
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "63.5x79",
+            "PrimaryImage": "https://lh4.ggpht.com/D3ebTbBCGhMfKinbGavyM5lRh6QLUWV0xCTESZ63UzCsYEJ8Fx6IITE3OvAef1kT29kzaxuQVuIO_mGnOInY0UBBsJ6p=s0"
+        },
+        {
+            "ID": "SK-C-101",
+            "Title": "The Town Hall on Dam Square, Amsterdam",
+            "Type": "painting",
+            "Description": "The Amsterdam Town Hall (now the Royal Palace) on Dam Square counts as the most important historical and cultural monument of the Dutch Golden Age. The building symbolizes the tremendous growth and development that the city experienced during the 17th century. Gerrit Berckheyde here portrayed the Town Hall in all its glory, while simultaneously con-veying the hustle and bustle of the city’s main square.",
+            "Colors": [
+                {
+                    "originalHex": "#A6ABA5",
+                    "normalizedHex": "#B5BFCC"
+                },
+                {
+                    "originalHex": " #BBA674",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #918B71",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #322817",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #53472F",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #736748",
+                    "normalizedHex": "#737C84"
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [],
+            "Artists": [
+                "Gerrit Berckheyde"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1693",
+                "BeginDate": 1693,
+                "EndDate": 1693
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "53x63.5",
+            "PrimaryImage": "https://lh3.googleusercontent.com/RYZhhl7Om5yt_P-laOnKarw12l4l8TbF4DGERfjLm4le_FoTIHd9IVqMDUjE1oKqsKJHFNJZV-YZ7cIAq-O8h9_uhLGi=s0"
+        },
+        {
+            "ID": "SK-A-5003",
+            "Title": "View of the Golden Bend in the Herengracht",
+            "Type": "painting",
+            "Description": "Due to the enormous increase of its population, Amsterdam had to expand during the 17th century: the city’s rings of canals were dug in phases. Here we see the Herengracht under construction, with a few lots still empty. This particular section of the canal became the domain of the very richest. Some of the residents earned their money from trade in Asia, and almost every interior boasted Asian luxury goods.",
+            "Colors": [
+                {
+                    "originalHex": "#2B2319",
+                    "normalizedHex": "#000000"
+                },
+                {
+                    "originalHex": " #B1B6AB",
+                    "normalizedHex": "#B5BFCC"
+                },
+                {
+                    "originalHex": " #6F8EAF",
+                    "normalizedHex": "#4279DB"
+                },
+                {
+                    "originalHex": " #484431",
+                    "normalizedHex": "#2F4F4F"
+                },
+                {
+                    "originalHex": " #9A8C69",
+                    "normalizedHex": "#E0CC91"
+                },
+                {
+                    "originalHex": " #656753",
+                    "normalizedHex": "#737C84"
+                },
+                {
+                    "originalHex": " #415369",
+                    "normalizedHex": "#737C84"
+                }
+            ],
+            "Materials": [
+                "oak (wood)",
+                "oil paint (paint)"
+            ],
+            "Techniques": [
+                "painting"
+            ],
+            "Subjects": [
+                "canals, waters (in city)",
+                "urban housing"
+            ],
+            "Artists": [
+                "Gerrit Berckheyde"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1671 - 1672",
+                "BeginDate": 1671,
+                "EndDate": 1672
+            },
+            "ProductionPlace": {
+                "Country": "Netherlands",
+                "County": "North Holland",
+                "State": "Amsterdam metropolitan area",
+                "City": "Amsterdam"
+            },
+            "SchoolStyle": [],
+            "Dimensions": "42.5x57.9",
+            "PrimaryImage": "https://lh3.googleusercontent.com/Rvymv3LXhOcFOVnZpZSGoUJ8oMGjFyOmc-Ys43EMqe9QfpJYc4j5Mg9B8goHKH8gwJSKAhTDj2VeT2T3s8Sn1eu2QrY=s0"
+        },
+        {
+            "ID": "SK-A-2313",
+            "Title": "A Coastal Ruin in Italy",
+            "Type": "painting",
+            "Description": "A favourite motif of the Italianates was a small harbour on the Mediterranean Sea with a crumbling quay and a ruin. At right are an African man and a couple of Turkish traders. At the left, a man in northern European clothing gestures out to sea. Overseas trade stimulated an interest for such scenes among Dutch collectors, even though the views were imaginary.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "panel",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "pier, quay, wharf",
+                "ornamental fountain (in village)"
+            ],
+            "Artists": [
+                "Jan Asselijn"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1640 - 1652",
+                "BeginDate": 1640,
+                "EndDate": 1652
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "54.5x48",
+            "PrimaryImage": "https://lh3.googleusercontent.com/E-rFrFc4sq6pK6qN15FnN-DNwjpkuSw-dQX3qgVia8jHQSo9qigqV367C0ov6yV2bWfh06MHcdxRzacK_fxg2-RsoGs=s0"
+        },
+        {
+            "ID": "SK-A-44",
+            "Title": "Michiel de Ruyter as Lieutenant-Admiral",
+            "Type": "painting",
+            "Description": "In 1667 Ferdinand Bol painted several life-size portraits of Michiel de Ruyter. These were hung in the headquarters of all five Dutch admiralties. This painting went to Middelburg. De Ruyter’s hero status made him a powerful man. In the portrait he is richly dressed and holding his commander’s baton. Around his neck he is wearing the Order of St Michael, awarded to him by the King of France.",
+            "Colors": [
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                },
+                {
+                    "originalHex": null,
+                    "normalizedHex": null
+                }
+            ],
+            "Materials": [
+                "canvas",
+                "oil paint (paint)"
+            ],
+            "Techniques": [],
+            "Subjects": [
+                "historical persons"
+            ],
+            "Artists": [
+                "Ferdinand Bol"
+            ],
+            "ProductionDate": {
+                "ObjectDate": "1667",
+                "BeginDate": 1667,
+                "EndDate": 1667
+            },
+            "ProductionPlace": {
+                "Country": null,
+                "County": null,
+                "State": null,
+                "City": null
+            },
+            "SchoolStyle": [],
+            "Dimensions": "157x138",
+            "PrimaryImage": "https://lh3.googleusercontent.com/xBOjpTHRmN-hyXbz8SwetRWuHVbwyEMv-FT4iI3LJM8ee8YRvjDdjcfYH9nah4PMgTIDbraC7Lq2-bTHbRbF5BioQg=s0"
+        }
+    ]
+}
